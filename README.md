@@ -2,6 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inusturbo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&count_private=true" />
 
 ## 👋 Hi, friend
+![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg)              
 ![](https://komarev.com/ghpvc/?username=inusturbo&style=flat-square)
 
 ### 👨‍💻 自我介绍｜Who am I ｜ 自我紹介
