@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi, friend
 
 ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.47 %
 
@@ -7,6 +7,7 @@
 ⏰ Updated on Fri, 28 Jan 2022 06:08:10 GMT
 
 ---
+
 ### My GitHub Contributions
 ![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
 
