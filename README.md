@@ -1,15 +1,15 @@
 # 👋 Hi, friend
 
-### My GitHub Contributions
+### 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
 ![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
 
-### My GitHub Stats
+### 我的GitHub状态｜My GitHub Stats｜GitHub状態
 
 ![](https://github-readme-stats.vercel.app/api?username=inusturbo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
 
-### 👨‍💻 自我介绍｜Who am I ｜ 自我紹介
+### 👨‍💻 自我介绍｜Who am I｜自我紹介
 正在备考日本修士考试。
 
 I am now preparing for Japan university's Master Entrance Exam.
@@ -23,7 +23,7 @@ I can speak Chinese 🇨🇳(Mother tongue), English 🇺🇸(Daily communicatio
 中国語🇨🇳(母語)、英語🇺🇸(日常交流)、日本語🇯🇵(日常交流)が話せます。
 
 
-### ⛹ 研究兴趣｜Research Interests ｜研究趣味
+### ⛹ 研究兴趣｜Research Interests｜研究趣味
 #### 计算机视觉和机器学习
 
 **应用：** 探索SLAM和多传感器融合的方式，并将其应用于自动驾驶、无人车导航和基于便携和廉价设备的三维空间探索。
@@ -42,7 +42,7 @@ I can speak Chinese 🇨🇳(Mother tongue), English 🇺🇸(Daily communicatio
 
 **理論：** 深層学習に基づく3次元物体認識とセグメンテーション
 
-### Languages and Tools:
+### 编程语言和工具｜Languages and Tools｜言語とツール
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
