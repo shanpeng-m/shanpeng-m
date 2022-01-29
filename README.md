@@ -1,9 +1,9 @@
 # 👋 Hi, friend
 
-### 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
+### 🧙 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
 ![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
 
-### 我的GitHub状态｜My GitHub Stats｜GitHub状態
+### 🧑‍💻 我的GitHub状态｜My GitHub Stats｜GitHub状態
 
 ![](https://github-readme-stats.vercel.app/api?username=inusturbo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&count_private=true)
 
@@ -42,7 +42,7 @@ I can speak Chinese 🇨🇳(Mother tongue), English 🇺🇸(Daily communicatio
 
 **理論：** 深層学習に基づく3次元物体認識とセグメンテーション
 
-### 编程语言和工具｜Languages and Tools｜言語とツール
+### 🙌🏼 编程语言和工具｜Languages and Tools｜言語とツール
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
