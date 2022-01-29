@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
 
-### 👨‍💻 自我介绍｜Who am I｜自我紹介
+### 👨🏻 自我介绍｜Who am I｜自我紹介
 正在备考日本修士考试。
 
 I am now preparing for Japan university's Master Entrance Exam.
