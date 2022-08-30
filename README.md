@@ -10,11 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
 
 ### 👨🏻 自我介绍｜Who am I｜自我紹介
-正在备考日本修士考试。
+2022年10月开始在(日本)奈良先端科学技术大学院大学攻读修士。
 
-I am now preparing for Japan university's Master Entrance Exam.
+I started my studies at Nara Institute of Science and Technology (NAIST, Japan) from October 2022.
 
-日本の修士試験の準備をしています。
+2022年10月から奈良先端科学技術大学院大学で修士課程を始めました。
 
 我会说汉语🇨🇳（母语），英语🇺🇸（日常交流），日语🇯🇵（日常交流）。
 
