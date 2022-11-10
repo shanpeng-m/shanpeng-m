@@ -12,7 +12,7 @@
 ### 👨🏻 自我介绍｜Who am I｜自我紹介
 2022年10月开始在(日本)奈良先端科学技术大学院大学攻读修士。
 
-I started my studies at Nara Institute of Science and Technology (NAIST, Japan) from October 2022.
+I started my master's course at Nara Institute of Science and Technology (NAIST, Japan) from October 2022.
 
 2022年10月から奈良先端科学技術大学院大学で修士課程を始めました。
 
