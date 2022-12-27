@@ -26,21 +26,15 @@ I can speak Chinese 🇨🇳(Mother tongue), English 🇺🇸(Daily communicatio
 ### ⛹ 研究兴趣｜Research Interests｜研究趣味
 #### 计算机视觉和机器学习
 
-**应用：** 探索SLAM和多传感器融合的方式，并将其应用于自动驾驶、无人车导航和基于便携和廉价设备的三维空间探索。
-
-**理论：** 基于深度学习的三维物体识别和分割
+**应用：** 探索SLAM和多传感器融合的方式，并将其应用于自动驾驶、无人车导航和基于便携和廉价设备的三维空间探索。基于AR的无人驾驶汽车舒适智能。
 
 #### Computer Vision and Machine Learning
 
-**Application:** explore the way of SLAM and multi-sensor fusion, and apply it to automatic driving, unmanned vehicle navigation and 3D-space exploration based on portable and cheap equipment.
-
-**Theory:** 3D object recognition and segmentation based on Deep Learning
+**Application:** explore the way of SLAM and multi-sensor fusion, and apply it to automatic driving, unmanned vehicle navigation and 3D-space exploration based on portable and cheap equipment. AR-based autonomous vehicle comfortable intelligence.
 
 #### コンピュータビジョンと機械学習
 
-**応用：** SLAMとマルチセンサフュージョンの方法を模索し、携帯可能で安価な機器をベースにした自動運転、無人車ナビゲーション、3D空間探索に応用する。
-
-**理論：** 深層学習に基づく3次元物体認識とセグメンテーション
+**応用：** SLAMとマルチセンサフュージョンの方法を模索し、携帯可能で安価な機器をベースにした自動運転、無人車ナビゲーション、3D空間探索に応用する。ARに基づく自動運転車快適知能。
 
 ### 🙌🏼 编程语言和工具｜Languages and Tools｜言語とツール
 
