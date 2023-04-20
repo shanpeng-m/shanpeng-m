@@ -10,31 +10,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
 
 ### 👨🏻 自我介绍｜Who am I｜自我紹介
-2022年10月开始在(日本)奈良先端科学技术大学院大学攻读修士。
+2022年10月起，在日本奈良先端科学技术大学院大学攻读硕士学位。
 
-I started my master's course at Nara Institute of Science and Technology (NAIST, Japan) from October 2022.
+I started pursuing my Master's degree at Nara Institute of Science and Technology (NAIST), Japan, in October 2022.
 
-2022年10月から奈良先端科学技術大学院大学で修士課程を始めました。
+私は中国の河北省出身で、2022年10月から日本の奈良先端科学技術大学院大学で修士号を取得するために学んでいます。
 
-我会说汉语🇨🇳（母语），英语🇺🇸（日常交流），日语🇯🇵（日常交流）。
+我可以说汉语🇨🇳（母语），英语🇺🇸（日常交流），日语🇯🇵（日常交流）。
 
-I can speak Chinese 🇨🇳(Mother tongue), English 🇺🇸(Daily communication), Japanese 🇯🇵(Daily communication).
+I am fluent in Chinese🇨🇳 (Mother tongue), English🇺🇸 (Daily communication), and Japanese🇯🇵 (Daily communication).
 
-中国語🇨🇳(母語)、英語🇺🇸(日常交流)、日本語🇯🇵(日常交流)が話せます。
+中国語🇨🇳(母国語)、英語🇺🇸(日常会話)、日本語🇯🇵(日常会話)を話すことができます。
 
 
 ### ⛹ 研究兴趣｜Research Interests｜研究趣味
-#### 计算机视觉和机器学习
+基于AR的无人驾驶汽车舒适智能，探索SLAM技术与多传感器融合的方法。
 
-**应用：** 探索SLAM和多传感器融合的方式，并将其应用于自动驾驶、无人车导航和基于便携和廉价设备的三维空间探索。基于AR的无人驾驶汽车舒适智能。
+Research interests in comfortable intelligence for autonomous vehicles based on AR, exploring SLAM techniques and multi-sensor fusion approaches.
 
-#### Computer Vision and Machine Learning
-
-**Application:** explore the way of SLAM and multi-sensor fusion, and apply it to automatic driving, unmanned vehicle navigation and 3D-space exploration based on portable and cheap equipment. AR-based autonomous vehicle comfortable intelligence.
-
-#### コンピュータビジョンと機械学習
-
-**応用：** SLAMとマルチセンサフュージョンの方法を模索し、携帯可能で安価な機器をベースにした自動運転、無人車ナビゲーション、3D空間探索に応用する。ARに基づく自動運転車快適知能。
+ARを利用した自動運転車の快適なインテリジェンスに関心があり、SLAM技術と複数センサーの融合方法を探求しています。
 
 ### 🙌🏼 编程语言和工具｜Languages and Tools｜言語とツール
 
