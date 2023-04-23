@@ -14,7 +14,7 @@
 
 I started pursuing my Master's degree at Nara Institute of Science and Technology (NAIST), Japan, in October 2022.
 
-私は中国の河北省出身で、2022年10月から日本の奈良先端科学技術大学院大学で修士号を取得するために学んでいます。
+2022年10月から日本の奈良先端科学技術大学院大学で修士号を取得するために学んでいます。
 
 我可以说汉语🇨🇳（母语），英语🇺🇸（日常交流），日语🇯🇵（日常交流）。
 
