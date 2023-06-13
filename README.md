@@ -1,14 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23154A62&lines=print(%22Hello+Friend%22);print(%22%E4%BD%A0%E5%A5%BD+%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%22);print(%22%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%22))](https://git.io/typing-svg)
 
-### 🧙 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
-![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
-
-### 🧑‍💻 我的GitHub状态｜My GitHub Stats｜GitHub状態
-
-![](https://github-readme-stats.vercel.app/api?username=inusturbo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
-
 ### 👨🏻 自我介绍｜Who am I｜自我紹介
 2022年10月起，在日本奈良先端科学技术大学院大学攻读硕士学位。
 
@@ -18,17 +9,17 @@ I started pursuing my Master's degree at Nara Institute of Science and Technolog
 
 我可以说汉语🇨🇳（母语），英语🇺🇸（日常交流），日语🇯🇵（日常交流）。
 
-I am fluent in Chinese🇨🇳 (Mother tongue), English🇺🇸 (Daily communication), and Japanese🇯🇵 (Daily communication).
+I can speak Chinese🇨🇳 (Mother tongue), English🇺🇸 (Daily communication), and Japanese🇯🇵 (Daily communication).
 
 中国語🇨🇳(母国語)、英語🇺🇸(日常会話)、日本語🇯🇵(日常会話)を話すことができます。
 
+### ⛹ 研究兴趣｜Research Interests｜研究テーマ
 
-### ⛹ 研究兴趣｜Research Interests｜研究趣味
-基于AR的无人驾驶汽车舒适智能，探索SLAM技术与多传感器融合的方法。
+我的研究兴趣包括增强现实 (AR)、人机交互 (HMI)、自动驾驶汽车中的舒适智能 (CI)、计算机视觉和 SLAM。
 
-Research interests in comfortable intelligence for autonomous vehicles based on AR, exploring SLAM techniques and multi-sensor fusion approaches.
+My research interests lie in the fields of augmented reality (AR), human-machine interaction (HMI), comfort intelligence (CI) in autonomous vehicles, computer vision, and SLAM.
 
-ARを利用した自動運転車の快適なインテリジェンスに関心があり、SLAM技術と複数センサーの融合方法を探求しています。
+研究興味は、拡張現実（AR）、ヒューマンマシンインタラクション（HMI）、自動運転車における快適知能（CI）、コンピュータビジョン、そしてSLAMです。
 
 ### 🙌🏼 编程语言和工具｜Languages and Tools｜言語とツール
 
@@ -36,10 +27,33 @@ ARを利用した自動運転車の快適なインテリジェンスに関心が
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Unity](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+#### 学习中｜Learning｜勉強中
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) from 2022/12/26 
+
+![HoloLens2-MRTK2](https://img.shields.io/badge/HoloLens2MRTK2-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) from 2022/10/20
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)from 2023/01/30
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)from 2023/02/04
+
+- Autoware from 2023/01/01
+
+#### 计划中｜Planning｜計画中
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ROS/ROS2](https://img.shields.io/badge/ROS/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### 📬 联系｜Contact me ｜連絡先
 
@@ -48,6 +62,15 @@ ARを利用した自動運転車の快適なインテリジェンスに関心が
 Please go to [![website](https://img.shields.io/badge/Pony's%20World-EA7E20?style=flat-square&logo=icloud&logoColor=white)](https://inusturbo.github.io) and click the button on the right side of **"contact me"** to contact me.
 
 [![website](https://img.shields.io/badge/%E9%A6%AC%E3%81%AE%E4%B8%96%E7%95%8C-EA7E20?style=flat-square&logo=icloud&logoColor=white)](https://inusturbo.github.io)右側のボタン【联系我｜contact me】をクリックして連絡してください。
+
+### 🧑‍💻 我的GitHub状态｜My GitHub Stats｜GitHub状態
+
+![](https://github-readme-stats.vercel.app/api?username=inusturbo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
+
+### 🧙 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
+![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
 
 ### 😈 其他｜Others｜その他
 [![](https://img.shields.io/badge/dynamic/json?color=282c34&style=for-the-badge&logo=github&label=Github%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dinusturbo)](https://github.com/inusturbo)
