@@ -27,7 +27,7 @@ My research interests lie in the fields of augmented reality (AR), human-machine
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
