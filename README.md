@@ -31,7 +31,9 @@ My research interests lie in the fields of augmented reality (AR), human-machine
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
+![HoloLens2](https://img.shields.io/badge/HoloLens2-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
 
 #### 学习中｜Learning｜勉強中
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) from 2022/12/26 
