@@ -38,7 +38,7 @@ My research interests lie in the fields of augmented reality (AR), human-machine
 #### 学习中｜Learning｜勉強中
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) from 2022/12/26 
 
-![HoloLens2-MRTK2](https://img.shields.io/badge/HoloLens2MRTK2-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) from 2022/10/20
+![HoloLens2-MRTK3](https://img.shields.io/badge/HoloLens2MRTK3-5E5E5E?style=flat-square&logo=microsoft&logoColor=white) from 2022/10/20
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)from 2023/01/30
 
