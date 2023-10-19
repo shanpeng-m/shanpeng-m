@@ -71,9 +71,6 @@ Please go to [![website](https://img.shields.io/badge/Pony's%20World-EA7E20?styl
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inusturbo&layout=compact&hide_border=true&langs_count=10)
 
-### 🧙 我的GitHub贡献｜My GitHub Contributions｜GitHub貢献
-![](https://raw.githubusercontent.com/inusturbo/inusturbo/main/assets/github-contribution-grid-snake.svg) 
-
 ### 😈 其他｜Others｜その他
 [![](https://img.shields.io/badge/dynamic/json?color=282c34&style=for-the-badge&logo=github&label=Github%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dinusturbo)](https://github.com/inusturbo)
 
