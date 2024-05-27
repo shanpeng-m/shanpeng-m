@@ -1,5 +1,3 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23154A62&lines=print(%22Hello+Friend%22);print(%22%E4%BD%A0%E5%A5%BD+%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%22);print(%22%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%22))](https://git.io/typing-svg)
-
 ### 👨🏻 自我介绍｜Who am I｜自我紹介
 2022年10月起，在日本奈良先端科学技术大学院大学攻读硕士学位。
 
